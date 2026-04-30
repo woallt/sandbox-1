@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-30 08:51 (IR Time)
+- 📥 **[SlipNet-v2.5.3-full-release-arm64-v8a.apk](https://github.com/woallt/sandbox-1/raw/main/dl/SlipNet-v2.5.3-full-release-arm64-v8a.apk)**
+
+
 ### 📅 2026-04-27 09:28 (IR Time)
 - 📥 **[v2rayNG_2.1.3_arm64-v8a.apk.zip](https://github.com/woallt/sandbox-1/raw/main/dl/v2rayNG_2.1.3_arm64-v8a.apk.zip)**
 - 📥 **[v2rayNG_2.1.3_arm64-v8a.apk.zip](https://github.com/woallt/sandbox-1/raw/main/dl/v2rayNG_2.1.3_arm64-v8a.apk.zip)**
