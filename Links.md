@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-04-30 09:04 (IR Time)
+- 📥 **[slipnet-windows-amd64.exe](https://github.com/woallt/sandbox-1/raw/main/dl/slipnet-windows-amd64.exe)**
+
+
 ### 📅 2026-04-30 08:51 (IR Time)
 - 📥 **[SlipNet-v2.5.3-full-release-arm64-v8a.apk](https://github.com/woallt/sandbox-1/raw/main/dl/SlipNet-v2.5.3-full-release-arm64-v8a.apk)**
 
